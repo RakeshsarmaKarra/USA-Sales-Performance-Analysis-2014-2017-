@@ -6,7 +6,7 @@ This interactive Power BI dashboard analyzes four years of sales data across the
 ### Tools & Technologies: 
 Power BI Desktop, CSV Data Import, Custom Visual Integration (Heatmap by Weiwei Cui)
 
-### Dashboard Link: [View Interactive Dashboard](https://myunt-my.sharepoint.com/:u:/r/personal/rakeshsarmakarra_my_unt_edu/Documents/Sales%20Dashboard.pbix?csf=1&web=1&e=Gz8Y74)
+### Dashboard Link: [View Interactive Dashboard](https://myunt-my.sharepoint.com/:u:/r/personal/rakeshsarmakarra_my_unt_edu/Documents/Sales%20Dashboard.pbix?csf=1&web=1&e=b5xGsn)
 
 ### Business Context
 Understanding where revenue is generated and how profitability varies across regions and product lines is fundamental to strategic decision-making. This analysis was designed to answer critical questions for stakeholders:
